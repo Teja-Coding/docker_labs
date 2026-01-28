@@ -1,0 +1,3 @@
+ARG BASE_IMAGE
+FROM almalinux:${BASE_IMAGE:-8}
+
